@@ -14,10 +14,6 @@ https://jigzz18.github.io/portfolio/
 ## Features
 - Responsive design
 - Project showcase
-- Contact form
-
-## Screenshot
-(image)
 
 ## Run Locally
 npm install
