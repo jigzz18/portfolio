@@ -3,7 +3,7 @@
 Personal portfolio built with Next.js and Tailwind.
 
 ## Live Website
-https://jigzz18.github.io/portfolio
+https://jigzz18.github.io/portfolio/
 
 ## Tech Stack
 - Next.js
