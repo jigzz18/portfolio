@@ -90,10 +90,11 @@
       "Core Technologies": ["Kafka", "PostgreSQL", "Docker", "Kubernetes", "AWS", "Temporal", "DAPR", "YugabyteDB", "GCP", "Databricks", "Apache Solr", "MongoDB"]
     },
     "certifications": [
-      { "title": "Practitioner: YugabyteDB Managed Basics", "issuer": "Yugabyte" },
+      { "title": "Deep Agents", "issuer": "LangChain" },
       { "title": "Developer: YCQL Development Exam", "issuer": "Yugabyte" },
-      { "title": "SQL (Basic) Certificate", "issuer": "HackerRank" },
-      { "title": "Java (Basic) Certificate", "issuer": "HackerRank" }
+      { "title": "Problem Solving (Advanced) Certificate", "issuer": "HackerRank" },
+      { "title": "Java (Basic) Certificate", "issuer": "HackerRank" },
+      { "title": "AWS Concepts", "issuer": "Udemy" }
     ],
     "publications": [
       {
